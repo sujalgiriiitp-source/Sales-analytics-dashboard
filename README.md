@@ -188,8 +188,9 @@ Execute all cells sequentially (Kernel → Restart & Run All). The notebook will
 
 **Sujal Giri**
 
-- 🔗 [GitHub](https://github.com/sujalgiri)
-- 📧 Contact: [Your Email]
+- GitHub: https://github.com/sujalgiriiitp-source
+- LinkedIn: https://www.linkedin.com/in/sujal-giri-9501253a0
+- Email: sujalgiriiitp@gmail.com
 
 ---
 
