@@ -141,8 +141,8 @@ Sales_Analytics_Project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Sales_Analytics_Project.git
-cd Sales_Analytics_Project
+git clone https://github.com/sujalgiriiitp-source/Sales-analytics-dashboard.git
+cd Sales-analytics-dashboard
 ```
 
 ### 2. Set Up Environment
